@@ -8,11 +8,11 @@ namespace GameTest
 {
     public class Game1 : Game
     {
-        
+        //Quang Dep trai
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
         //
-        private List<Sprite> _sprites;
+        private List<Sprite> _sprite;
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
